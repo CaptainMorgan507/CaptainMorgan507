@@ -24,7 +24,7 @@ Most of the codes i will upload in the future would be dummy projects of random 
   - Windows Server 2012R2
   - Windows
 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on a company that developes software dedicated on vehicules attitude and control, to improve my skills in the field of becoming Senior fullstack Dev
 - 📫 How to reach me you can kindly reach me on my discord, captain morgan#0921
 
 <!---
