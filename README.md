@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CaptainMorgan507
+- 👋 Hi, I’m @CaptainMorgan
 - 👀 I’m interested in applications dedicated on autopilots, most of my experience lies on this field. 
       i would like to become a test engineer for the Aerospace, Defense (Missiles and Vehicules) or Vehicule Propulsion field.
       i have experience in autopilots for metro trains, from hardware setup and configuration up to test and commisioning of versions and data mining (mostly dedicated to address
