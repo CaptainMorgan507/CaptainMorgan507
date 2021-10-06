@@ -7,7 +7,7 @@ NOTE: Due to privacy disclosure agreements, i cant upload the codes and examples
 Most of the codes i will upload in the future would be dummy projects of random ideas.
 
 - 🌱 I’m currently learning Software development
-Languages i am learning and currently using:
+- The Languages i am learning and currently using:
   - Java
   - Python (for data mining and data file transfers)
   - C# for RESTAPI with #NetCore
@@ -18,7 +18,7 @@ Languages i am learning and currently using:
   - Javascript, Currently Leaning
   - NodeJs, Currently learning
 
-OS i have worked with:
+- OS i have worked with:
   - Ubuntu 20.8
   - Redhat 6.7
   - Windows Server 2012R2
